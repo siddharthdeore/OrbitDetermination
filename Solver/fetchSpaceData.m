@@ -6,6 +6,7 @@
 % yyyy dd mm MJD      x         y        UT1-UTC     LOD        dPsi    dEpsilon    dX        dY     DAT
 % example:
 % [name,tle1,tle2] = fetchTLE('ISS','active.txt');
+% deore.in
 
 function [xp,yp,dut1,lod,dPsi,dEpsilon,dx,dy,dat] = fetchSpaceData(search_date)
 if(nargin<2)
@@ -13,10 +14,10 @@ if(nargin<2)
     filename='EOP-Last5Years.txt';
 end
  file = dir(strcat('SpaceData\',filename));
- if(hours(datetime('now')-file.date)>24)
-     %cprintf('*red','WARNING : file is 24+ hrs old, please update\n')
-     fprintf(2,'WARNING : file is 24+ hrs old, please update\n')
- end
+% if(hours(datetime('now')-file.date)>24)
+%     %cprintf('*red','WARNING : file is 24+ hrs old, please update\n')
+%     fprintf(2,'WARNING : file is 24+ hrs old, please update\n')
+% end
 
  search_date=upper(search_date);
  fprintf(2,'Searching "%s" in %s \n',search_date,filename);
