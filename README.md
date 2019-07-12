@@ -1,8 +1,8 @@
 # OrbitDetermination
 Orbit Determination with optical observations
-#####################################################################
+--
 Instructions
-#####################################################################
+--
 
 Download SpaceGuidance.zip and extract it to your drive
 Open matlab and locate the folder SpaceGuidance
@@ -21,7 +21,7 @@ You have two problems
 		iii.	Solve using preferred optimization method
 		iv.	Compare the results
 
-#####################################################################
+--
 2.	Real problem from Photos
 	a.	Process FITs images in astrometry.net
 	b.	Find RA and DEC from SAOds9 and their time of observation
@@ -36,7 +36,7 @@ You have two problems
 	e.	Similarly run  Run SGN_OptimisationProblem_day2.m and
 	SGN_OptimisationProblem_day3.m for later days
  
-#####################################################################
+--
 Important scripts
 1. TLE_Simulate.m
 2. TLE_Opt.m (requires observation from file data.txt)
@@ -46,7 +46,7 @@ Important scripts
 		observationsAll.txt)
 5. SGN_OptimisationProblem_day3.m (requres observation from file
 		observationsAll.txt)
-#####################################################################
+--
 Important files
 data.txt -- data generated throug simulated problem,
 	contains  [julian date : RA (rad) : DEC(rad)]
