@@ -32,13 +32,14 @@ period=2*pi/satrec.no; % period of satellite in min
 
 %% Date time
 %current_utc_time   = datetime('now','TimeZone','Europe/Rome'); % current date time
-current_utc_time   = datetime(2019,7,03,1,0,0,0); %t = datetime(Y,M,D,H,MI,S,MS)
+current_utc_time   = datetime(2019,7,12,1,0,0,0); %t = datetime(Y,M,D,H,MI,S,MS)
 current_jd = juliandate(current_utc_time);          % current julian date
 epoch_jd = satrec.jdsatepoch+satrec.jdsatepochf; 
 min_since_epoch = (current_jd-epoch_jd)*min_in_day; % one JD = 24*60 = min_in_day min;
 
 %% Earth Orientation parameters
-[xp,yp,dut1,lod,ddpsi,ddeps,dx,dy,dat] = fetchSpaceData(datestr(current_utc_time,'yyyy mm dd'));
+%[xp,yp,dut1,lod,ddpsi,ddeps,dx,dy,dat] = fetchSpaceData(datestr(current_utc_time,'yyyy mm dd'));
+[xp,yp,dut1,lod,ddpsi,ddeps,dx,dy,dat] = fetchSpaceData('2019 07 12');
 
 switch ipArg
    case 1

@@ -30,7 +30,7 @@ tle2='2 22988  13.4618  56.8107 0003338   5.5549  232.555  1.03270087  5601';
 
 
 % fetch EOP data
-[xp,yp,dut1,lod,ddpsi,ddeps,dx,dy,dat] = fetchSpaceData(datestr(datetime([2019,05,08]),'yyyy mm dd'));
+[xp,yp,dut1,lod,ddpsi,ddeps,dx,dy,dat] = fetchSpaceData('2019 05 08');
 [~, ~, ~, satrec] = twoline2rv(tle1, tle2, typerun, typeinput, opsmode, whichconst);
 % Apriori estimate
 Xest=[ satrec.ecco; satrec.inclo; satrec.nodeo; satrec.argpo; satrec.mo;str2double(tle2(52:63));]';

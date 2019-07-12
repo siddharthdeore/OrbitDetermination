@@ -29,7 +29,8 @@ epoch_jd = satrec.jdsatepoch+satrec.jdsatepochf;
 min_since_epoch = (current_jd-epoch_jd)*min_in_day; % one JD = 24*60 = min_in_day min;
 
 %% Earth Orientation parameters
-[xp,yp,dut1,lod,ddpsi,ddeps,dx,dy,dat] = fetchSpaceData(datestr(current_utc_time,'yyyy mm dd'));
+%[xp,yp,dut1,lod,ddpsi,ddeps,dx,dy,dat] = fetchSpaceData(datestr(current_utc_time,'yyyy mm dd'));
+[xp,yp,dut1,lod,ddpsi,ddeps,dx,dy,dat] = fetchSpaceData('2019 07 12');
 
 switch ipArg
     case 1
