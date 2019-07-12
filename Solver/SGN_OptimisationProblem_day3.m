@@ -28,7 +28,9 @@ tle2='2 27422  98.4176  57.1153 0008279 149.2393 167.4261 14.09156672878468';
 tle_true='2 27422  98.2911  57.2753 0013167 129.0062 231.2296 14.29268859878468';
 %                   inc     RA      ecc       argp     mo      no
 % fetch EOP data
-[xp,yp,dut1,lod,ddpsi,ddeps,dx,dy,dat] = fetchSpaceData(datestr(datetime([2019,03,23]),'yyyy mm dd'));
+%[xp,yp,dut1,lod,ddpsi,ddeps,dx,dy,dat] = fetchSpaceData(datestr(datetime([2019,03,23]),'yyyy mm dd'));
+[xp,yp,dut1,lod,ddpsi,ddeps,dx,dy,dat] = fetchSpaceData('2019 03 23');
+
 [~, ~, ~, satrec] = twoline2rv(tle1, tle2, typerun, typeinput, opsmode, whichconst);
 % Apriori estimate
 Xest=[ satrec.ecco; satrec.inclo; satrec.nodeo; satrec.argpo; satrec.mo;str2double(tle2(52:63));satrec.bstar]';
