@@ -1,0 +1,138 @@
+WARNING : file is 24+ hrs old, please update
+Searching "2019 03 21" in EOP-Last5Years.txt 
+iter: 1 cost 1.291208e-02  rms(RA_residulas) 1.037983e-01 rms(DEC_residulas) 3.522139e-02 
+iter: 2 cost 2.299629e-02  rms(RA_residulas) 1.052787e-01 rms(DEC_residulas) 5.343494e-02 
+iter: 3 cost 7.857604e-03  rms(RA_residulas) 7.726118e-02 rms(DEC_residulas) 2.811844e-02 
+iter: 4 cost 7.490948e-03  rms(RA_residulas) 6.390555e-02 rms(DEC_residulas) 3.002072e-02 
+iter: 5 cost 5.963916e-03  rms(RA_residulas) 5.684236e-02 rms(DEC_residulas) 2.685092e-02 
+iter: 6 cost 5.728402e-03  rms(RA_residulas) 5.728795e-02 rms(DEC_residulas) 2.605659e-02 
+iter: 7 cost 5.405662e-03  rms(RA_residulas) 5.605774e-02 rms(DEC_residulas) 2.524218e-02 
+iter: 8 cost 5.144542e-03  rms(RA_residulas) 5.506065e-02 rms(DEC_residulas) 2.456319e-02 
+iter: 9 cost 4.850567e-03  rms(RA_residulas) 5.380415e-02 rms(DEC_residulas) 2.379469e-02 
+iter: 10 cost 4.586392e-03  rms(RA_residulas) 5.267663e-02 rms(DEC_residulas) 2.307762e-02 
+iter: 11 cost 4.331768e-03  rms(RA_residulas) 5.152228e-02 rms(DEC_residulas) 2.237239e-02 
+iter: 12 cost 4.091113e-03  rms(RA_residulas) 5.038426e-02 rms(DEC_residulas) 2.168882e-02 
+iter: 13 cost 3.861928e-03  rms(RA_residulas) 4.924935e-02 rms(DEC_residulas) 2.102191e-02 
+iter: 14 cost 3.644639e-03  rms(RA_residulas) 4.812556e-02 rms(DEC_residulas) 2.037359e-02 
+iter: 15 cost 3.438553e-03  rms(RA_residulas) 4.701205e-02 rms(DEC_residulas) 1.974314e-02 
+iter: 16 cost 3.243255e-03  rms(RA_residulas) 4.591040e-02 rms(DEC_residulas) 1.913042e-02 
+iter: 17 cost 3.058278e-03  rms(RA_residulas) 4.482156e-02 rms(DEC_residulas) 1.853512e-02 
+iter: 18 cost 2.883216e-03  rms(RA_residulas) 4.374677e-02 rms(DEC_residulas) 1.795711e-02 
+iter: 19 cost 2.717662e-03  rms(RA_residulas) 4.268722e-02 rms(DEC_residulas) 1.739617e-02 
+iter: 20 cost 2.561112e-03  rms(RA_residulas) 4.164304e-02 rms(DEC_residulas) 1.685181e-02 
+iter: 21 cost 2.413254e-03  rms(RA_residulas) 4.061591e-02 rms(DEC_residulas) 1.632402e-02 
+iter: 22 cost 2.273661e-03  rms(RA_residulas) 3.960633e-02 rms(DEC_residulas) 1.581245e-02 
+iter: 23 cost 2.141947e-03  rms(RA_residulas) 3.861493e-02 rms(DEC_residulas) 1.531683e-02 
+iter: 24 cost 2.017689e-03  rms(RA_residulas) 3.764198e-02 rms(DEC_residulas) 1.483667e-02 
+iter: 25 cost 1.900545e-03  rms(RA_residulas) 3.668823e-02 rms(DEC_residulas) 1.437175e-02 
+iter: 26 cost 1.790179e-03  rms(RA_residulas) 3.575422e-02 rms(DEC_residulas) 1.392184e-02 
+iter: 27 cost 1.686221e-03  rms(RA_residulas) 3.484012e-02 rms(DEC_residulas) 1.348650e-02 
+iter: 28 cost 1.588343e-03  rms(RA_residulas) 3.394620e-02 rms(DEC_residulas) 1.306543e-02 
+iter: 29 cost 1.496276e-03  rms(RA_residulas) 3.307332e-02 rms(DEC_residulas) 1.265849e-02 
+iter: 30 cost 1.409603e-03  rms(RA_residulas) 3.222038e-02 rms(DEC_residulas) 1.226490e-02 
+iter: 31 cost 1.328044e-03  rms(RA_residulas) 3.138775e-02 rms(DEC_residulas) 1.188434e-02 
+iter: 32 cost 1.251429e-03  rms(RA_residulas) 3.057669e-02 rms(DEC_residulas) 1.151698e-02 
+iter: 33 cost 1.179411e-03  rms(RA_residulas) 2.978627e-02 rms(DEC_residulas) 1.116218e-02 
+iter: 34 cost 1.111645e-03  rms(RA_residulas) 2.901540e-02 rms(DEC_residulas) 1.081914e-02 
+iter: 35 cost 1.047974e-03  rms(RA_residulas) 2.826519e-02 rms(DEC_residulas) 1.048794e-02 
+iter: 36 cost 9.881695e-04  rms(RA_residulas) 2.753541e-02 rms(DEC_residulas) 1.016830e-02 
+iter: 37 cost 9.319631e-04  rms(RA_residulas) 2.682542e-02 rms(DEC_residulas) 9.859615e-03 
+iter: 38 cost 8.791159e-04  rms(RA_residulas) 2.613450e-02 rms(DEC_residulas) 9.561424e-03 
+iter: 39 cost 8.294212e-04  rms(RA_residulas) 2.546235e-02 rms(DEC_residulas) 9.273324e-03 
+iter: 40 cost 7.827604e-04  rms(RA_residulas) 2.480970e-02 rms(DEC_residulas) 8.995389e-03 
+iter: 41 cost 7.389003e-04  rms(RA_residulas) 2.417534e-02 rms(DEC_residulas) 8.727014e-03 
+iter: 42 cost 6.976249e-04  rms(RA_residulas) 2.355829e-02 rms(DEC_residulas) 8.467570e-03 
+iter: 43 cost 6.587979e-04  rms(RA_residulas) 2.295855e-02 rms(DEC_residulas) 8.216857e-03 
+iter: 44 cost 6.221746e-04  rms(RA_residulas) 2.237404e-02 rms(DEC_residulas) 7.973956e-03 
+iter: 45 cost 5.876984e-04  rms(RA_residulas) 2.180582e-02 rms(DEC_residulas) 7.739052e-03 
+iter: 46 cost 5.553422e-04  rms(RA_residulas) 2.125526e-02 rms(DEC_residulas) 7.512597e-03 
+iter: 47 cost 5.248997e-04  rms(RA_residulas) 2.072051e-02 rms(DEC_residulas) 7.293788e-03 
+iter: 48 cost 4.960793e-04  rms(RA_residulas) 2.019788e-02 rms(DEC_residulas) 7.081067e-03 
+iter: 49 cost 4.687417e-04  rms(RA_residulas) 1.968619e-02 rms(DEC_residulas) 6.873830e-03 
+iter: 50 cost 4.429133e-04  rms(RA_residulas) 1.918743e-02 rms(DEC_residulas) 6.672669e-03 
+iter: 51 cost 4.186156e-04  rms(RA_residulas) 1.870337e-02 rms(DEC_residulas) 6.478263e-03 
+iter: 52 cost 3.957142e-04  rms(RA_residulas) 1.823275e-02 rms(DEC_residulas) 6.290048e-03 
+iter: 53 cost 3.739229e-04  rms(RA_residulas) 1.777061e-02 rms(DEC_residulas) 6.106119e-03 
+iter: 54 cost 3.530440e-04  rms(RA_residulas) 1.731361e-02 rms(DEC_residulas) 5.925059e-03 
+iter: 55 cost 3.330930e-04  rms(RA_residulas) 1.686295e-02 rms(DEC_residulas) 5.747190e-03 
+iter: 56 cost 3.142031e-04  rms(RA_residulas) 1.642265e-02 rms(DEC_residulas) 5.573984e-03 
+iter: 57 cost 2.962253e-04  rms(RA_residulas) 1.599001e-02 rms(DEC_residulas) 5.404448e-03 
+iter: 58 cost 2.788748e-04  rms(RA_residulas) 1.555851e-02 rms(DEC_residulas) 5.236132e-03 
+iter: 59 cost 2.621491e-04  rms(RA_residulas) 1.512848e-02 rms(DEC_residulas) 5.069064e-03 
+iter: 60 cost 2.457317e-04  rms(RA_residulas) 1.469159e-02 rms(DEC_residulas) 4.900040e-03 
+iter: 61 cost 2.296728e-04  rms(RA_residulas) 1.424866e-02 rms(DEC_residulas) 4.729385e-03 
+iter: 62 cost 2.137821e-04  rms(RA_residulas) 1.379360e-02 rms(DEC_residulas) 4.554769e-03 
+iter: 63 cost 1.978243e-04  rms(RA_residulas) 1.331773e-02 rms(DEC_residulas) 4.373041e-03 
+iter: 64 cost 1.815651e-04  rms(RA_residulas) 1.281094e-02 rms(DEC_residulas) 4.180506e-03 
+iter: 65 cost 1.642839e-04  rms(RA_residulas) 1.224441e-02 rms(DEC_residulas) 3.966602e-03 
+iter: 66 cost 1.444352e-04  rms(RA_residulas) 1.155177e-02 rms(DEC_residulas) 3.707245e-03 
+iter: 67 cost 1.195993e-04  rms(RA_residulas) 1.060771e-02 rms(DEC_residulas) 3.357345e-03 
+iter: 68 cost 8.467528e-05  rms(RA_residulas) 9.079567e-03 rms(DEC_residulas) 2.799272e-03 
+Elapsed time is 34.220589 seconds.
+Soution converged 
+-------------------------------------------------------------------------------
+                  incl     rtasc    ecc     argp     M0      no
+initial :2 27422 098.2909 056.4759 0013128 131.2716 228.9599 14.29268806880239
+updated :2 27422  98.4235  56.3236 0000001 138.6795 236.3548 14.11907291880239
+true    :2 27422 098.2909 056.4759 0013128 131.2716 228.9599 14.29268806880239
+-------------------------------------------------------------------------------
+ecc  : 0.000000  
+incl : 1.717815  rad 
+node : 0.983032  rad 
+argp : 2.420414  rad 
+M0   : 4.125169  
+n0   : 14.119073  rev/day 
+bstar: 0.000007   
+-----------------------------------------------------------------
+
+WARNING : file is 24+ hrs old, please update
+Searching "2019 03 22" in EOP-Last5Years.txt 
+iter: 1 cost 1.743396e-02  rms(RA_residulas) 5.332341e-02 rms(DEC_residulas) 3.193224e-02 
+iter: 2 cost 2.079116e-04  rms(RA_residulas) 5.270050e-03 rms(DEC_residulas) 3.689691e-03 
+iter: 3 cost 1.513544e-02  rms(RA_residulas) 5.815311e-02 rms(DEC_residulas) 2.379286e-02 
+iter: 4 cost 8.447400e-05  rms(RA_residulas) 3.872948e-03 rms(DEC_residulas) 1.692793e-03 
+Elapsed time is 8.335690 seconds.
+Soution converged 
+-------------------------------------------------------------------------------
+                  incl     rtasc    ecc     argp     M0      no
+initial :2 27422 098.2911 057.4751 0013178 128.4436 231.7932 14.29268896880385
+updated :2 27422  98.3623  57.2896 0087014 129.5626 253.0148 13.91995923880385
+true    :2 27422 098.2911 057.4751 0013178 128.4436 231.7932 14.29268896880385
+-------------------------------------------------------------------------------
+ecc  : 0.008701  
+incl : 1.716745  rad 
+node : 0.999892  rad 
+argp : 2.261293  rad 
+M0   : 4.415942  
+n0   : 13.919959  rev/day 
+bstar: 0.000008   
+-----------------------------------------------------------------
+
+WARNING : file is 24+ hrs old, please update
+Searching "2019 03 23" in EOP-Last5Years.txt 
+iter: 1 cost 1.126931e-02  rms(RA_residulas) 6.315971e-02 rms(DEC_residulas) 3.242013e-02 
+iter: 2 cost 1.519198e-01  rms(RA_residulas) 1.627154e-01 rms(DEC_residulas) 1.536307e-01 
+iter: 3 cost 3.818367e-03  rms(RA_residulas) 1.629865e-02 rms(DEC_residulas) 2.822053e-02 
+iter: 4 cost 2.530910e-02  rms(RA_residulas) 9.807349e-02 rms(DEC_residulas) 5.062544e-02 
+iter: 5 cost 1.207540e-01  rms(RA_residulas) 7.395709e-02 rms(DEC_residulas) 1.564444e-01 
+iter: 6 cost 4.883488e-02  rms(RA_residulas) 1.478343e-01 rms(DEC_residulas) 7.163969e-02 
+iter: 7 cost 1.969596e-03  rms(RA_residulas) 1.323696e-02 rms(DEC_residulas) 1.934332e-02 
+iter: 8 cost 1.506212e-04  rms(RA_residulas) 1.684107e-03 rms(DEC_residulas) 5.723033e-03 
+iter: 9 cost 1.332823e-04  rms(RA_residulas) 1.216331e-03 rms(DEC_residulas) 5.404169e-03 
+iter: 10 cost 1.332570e-04  rms(RA_residulas) 1.216579e-03 rms(DEC_residulas) 5.403811e-03 
+Elapsed time is 8.761297 seconds.
+Soution converged 
+-------------------------------------------------------------------------------
+                  incl     rtasc    ecc     argp     M0      no
+initial :2 27422  98.2913  58.3413 0013185 125.9815 234.2592 14.29268846878622
+updated :2 27422  98.3794  58.4328 0161226 167.8983 244.5952 13.82711544878622
+true    :2 27422  98.2913  58.3413 0013185 125.9815 234.2592 14.29268846878622
+-------------------------------------------------------------------------------
+ecc  : 0.016123  
+incl : 1.717044  rad 
+node : 1.019845  rad 
+argp : 2.930378  rad 
+M0   : 4.268992  
+n0   : 13.827115  rev/day 
+bstar: 0.000005   
+-----------------------------------------------------------------
